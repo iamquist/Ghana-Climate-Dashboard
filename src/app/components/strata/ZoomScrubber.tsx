@@ -39,7 +39,7 @@ export function ZoomScrubber({ zoom, onChange }: Props) {
   const handleT = (MAX - zoom) / (MAX - MIN);
 
   return (
-    <div className="strata-chrome relative" style={{ padding: "8px 6px" }}>
+    <div className="strata-chrome relative" style={{ padding: "0px 6px" }}>
       <div
         ref={trackRef}
         className="relative cursor-pointer select-none"
