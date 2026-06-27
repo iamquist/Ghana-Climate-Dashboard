@@ -1,8 +1,6 @@
 
   # Climate Dashboard
 
-  This is a code bundle for Climate Dashboard. The original project is available at https://www.figma.com/design/npUqJG9BvQcH8YTrWAjihb/Climate-Dashboard.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
